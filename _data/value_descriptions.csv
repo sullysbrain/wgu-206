@@ -1,0 +1,53 @@
+Title, Description
+Unnamed, The placeholder for order
+CaseOrder, This variable preserves the raw data order
+Customer_id, The customer ID (a unique value)
+Interaction, Unique ID to relate customer interactions
+City, The customer city address (from billing info)
+State, The customer state address (from billing info)
+County, The customer county address (from billing info)
+Zip, The zip code of the customer (from billing info)
+Lat, Latitude from GPS of address
+Lng, Longitude from GPS of address
+Population, One mile radius population (from census)
+Area, Area type (is it rural urban or suburban)
+Timezone, Customer timezone
+Job, Customer job from sign-up info
+Children, Customer household child count
+Age, Customer age (from sign-up info)
+Education, Customer highest degree (from sign-up info)
+Employment, Status of employment of customer
+Income, Annual customer income
+Marital, Status of customer marital status
+Gender, Customer gender
+Churn, Customer discontinued service in last month
+Outage_sec_perweek, Number of seconds / week of system outages
+Email, Quantity of emails sent to customer during last year
+Contacts, Number of incoming calls from customer to support
+Yearly_equip_failure, Number of customer equipment failures
+Techie, Customer says they are technically able
+Contract, Enum of contract type (ie: month-to-month or one year)
+Port_modem, Customer has mobile modem
+Tablet, Customer owns iPad or Surface or other tablet
+InternetService, Type of internet service (ie: DSL or fiber)
+Phone, Customer has phone service (boolean)
+Multiple, Customer has multiple phone lines
+OnlineSecurity, Online security option purchased
+OnlineBackup, Online backup add-on purchased
+DeviceProtection, Device protection add-on purchased
+TechSupport, Customer has technical support as add-on
+StreamingTV, Customer purchased streaming TV
+StreamingMovies, Customer purchased streaming movies (yes/no)
+PaperlessBilling, Customer enrolled in paperless billing
+PaymentMethod, Payment method
+Tenure, Number of months customer has been with provider
+MonthlyCharge, Monthly charge to customer
+Bandwidth_GB_Year, Data used in a year
+item1, Timely responses
+item2, Timely fixes
+item3, Timely replacements
+item4, Reliability
+item5, Options
+item6, Respectful
+item7, Courteous
+item8, Active listener
